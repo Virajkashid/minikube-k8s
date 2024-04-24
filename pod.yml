@@ -5,7 +5,7 @@ metadata:
   labels:
     env: uat-env
     app: eb-ms-app
-  namespace: uat
+  namespace: default
 spec:
   containers:
     - name: eb-ms-nginx-instance
