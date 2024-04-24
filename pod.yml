@@ -11,5 +11,5 @@ spec:
     - name: eb-ms-nginx-instance
       image: nginx
       ports:
-        - name: http
+        - name: nginx
           containerPort: 80
