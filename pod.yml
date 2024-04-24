@@ -16,6 +16,4 @@ spec:
     - name: eb-ms-tomcat-instance
       image: tomcat
       ports:
-        - name: java
-          containerPort: 8080          
-          
+        - 
