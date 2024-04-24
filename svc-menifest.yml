@@ -11,7 +11,7 @@ spec:
   selector:
     app: eb-ms-app #[app: eb-ms-app]
   ports:
-    - name: http
+    - name: 
       protocol: TCP
       port: 80
       targetPort: 80
